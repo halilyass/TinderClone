@@ -3,8 +3,19 @@
 In this project , I want to learn,
 
 -MVVM 
+
+
+
 -Firebase
+
+
+
+
 -TableView
+
+
+
+
 -CollectionView
 -Programatically Create UI
 -JGProgressHUD
