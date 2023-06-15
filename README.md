@@ -1,6 +1,8 @@
 # TinderClone
 
-In this project , I want to learn,
+In this project,
+
+I user for this project, I wanted to learn how to make popular mobile applications in this project, how to use the MVVM design pattern, and how to connect Firebase to the project.
 
 -MVVM 
 
