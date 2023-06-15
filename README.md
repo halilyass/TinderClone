@@ -1,6 +1,6 @@
 # TinderClone
 
-In this project , I would to learn,
+In this project , I want to learn,
 
 -MVVM 
 -Firebase
